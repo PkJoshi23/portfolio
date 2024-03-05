@@ -669,6 +669,7 @@ h1,.h1{display:block;font-family:Old Standard TT,serif;font-weight:400;font-styl
   }
 
 input[type=text] {
+    background-color:#f6f6f6;
     letter-spacing: 1px;
     font-size: 21px;
     outline: none;
